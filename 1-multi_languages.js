@@ -1,6 +1,6 @@
 let c = "C is fun"
 let python = "Python is cool"
-let js = "Javascript is amazing"
+let js = "JavaScript is amazing"
 
 console.log(c)
 console.log(python)
